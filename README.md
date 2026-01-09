@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Berenice! 👋
 
-<!--
-**berenicerojas/berenicerojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bridging the gap between Healthcare Strategy, Data Analytics, and Software Engineering.
 
-Here are some ideas to get you started:
+I am a multi-disciplinary professional currently navigating the intersection of clinical research and technical development. My background spans account strategy at **Biolumina**, clinical operations at **Mount Sinai**, and data leadership at **COOP Careers**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Up To
+- 🏥 **Currently:** Clinical Research Coordinator at **Mount Sinai**, bridging the gap between clinical data and software solutions.
+- 💻 **Building:** Interactive React applications for data visualization and clinical study management.
+- 📊 **Teaching:** Serving as a Data Analytics Captain at **COOP**, leading workshops on SQL, Excel, and Tableau.
+
+## 🛠 My Tech Stack
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **Data:** SQL, Python, R, Tableau, Excel (VLookup, Pivot Tables, Automations)
+- **Workflow:** Git/GitHub, Salesforce, Trello, Slack
+
+## 📈 Recent Projects
+* [Project Name 1] - A React-based tool for [Brief Description].
+* [Project Name 2] - SQL-driven data analysis focusing on [Brief Description].
+
+---
+
+### Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/berenice-rojas/)
+- 📫 Reach me at: berenicerojas.nyc@gmail.com
