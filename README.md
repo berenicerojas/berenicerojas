@@ -7,7 +7,7 @@ I am a multi-disciplinary professional currently navigating the intersection of 
 ---
 
 ## 🚀 What I'm Up To
-- 🏥 **Currently:** Clinical Research Coordinator at **Mount Sinai**, bridging the gap between clinical data and software solutions.
+- 🏥 **Currently:** Currently working at ...
 - 💻 **Building:** Interactive React applications for data visualization and clinical study management.
 - 📊 **Teaching:** Serving as a Data Analytics Captain at **COOP**, leading workshops on SQL, Excel, and Tableau.
 
