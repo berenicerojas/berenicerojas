@@ -17,8 +17,9 @@ I am a multi-disciplinary professional currently navigating the intersection of 
 - **Workflow:** Git/GitHub, Salesforce, Trello, Slack
 
 ## 📈 Recent Projects
-* [Project Name 1] - A React-based tool for [Brief Description].
-* [Project Name 2] - SQL-driven data analysis focusing on [Brief Description].
+* berenicerojas-luna -
+* API-Project-
+* todo-list -
 
 ---
 
